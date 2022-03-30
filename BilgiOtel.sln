@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgiOtel", "BilgiOtel\BilgiOtel.csproj", "{AC5B8B83-46B0-4A52-8ADB-D4705E038FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_BilgiHotel", "DAL_BilgiHotel\DAL_BilgiHotel.csproj", "{5D5E9DE9-D5E6-4A25-B962-B166007464EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC5B8B83-46B0-4A52-8ADB-D4705E038FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5B8B83-46B0-4A52-8ADB-D4705E038FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5B8B83-46B0-4A52-8ADB-D4705E038FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5B8B83-46B0-4A52-8ADB-D4705E038FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D5E9DE9-D5E6-4A25-B962-B166007464EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5E9DE9-D5E6-4A25-B962-B166007464EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5E9DE9-D5E6-4A25-B962-B166007464EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5E9DE9-D5E6-4A25-B962-B166007464EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31DCA0A4-09AF-4D55-8EEA-D40EFEAD5BC8}
+	EndGlobalSection
+EndGlobal
